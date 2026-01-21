@@ -1,0 +1,93 @@
+ .navbar{
+            background-color: dimgray;
+            padding: 15px 20px;
+        }
+        .nav-menu{
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+        .nav-link{
+            text-decoration: none;
+            font-size: 15px;
+            font-family: Inter;
+        }
+        .nav-link:hover{
+            color: blue;
+            background-color: grey;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .signup-btn{
+            margin: 10px;
+            color: black;
+            background-color: navajowhite;
+            padding: 10px;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        .signup-btn:hover{
+            background-color: white;
+
+        }
+        main{
+            background-color: darkslategrey;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 1000px;
+        }
+        h1{
+            font-size: 45px;
+            font-family: aerial black;
+            text-align: center;
+            text-decoration-line: underline;
+        }
+        .hero-image{
+            background-image: url("operation-1807543_1280.jpg");
+            background-size: cover;
+            background-position: center;
+            height: 440px;
+        }
+        .hero-text{
+            font-size: 30px;
+            text-align: center;
+            color: midnightblue;
+            font-weight: bold;
+            position: relative;
+            top: 50%
+        }
+        .content{
+            font-size: 15px;
+            font-family: "Noto Sans Oriya";
+            color: lightsteelblue;
+            background-color: midnightblue;
+            border-radius: 15px;
+            padding: 12px;
+            margin-top: 10px;
+        }
+        .content h1{
+            font-size: 30px;
+            color: cyan;
+            font-family: "Fira Code Light";
+            border-bottom: 2px solid white;
+            text-decoration: none;
+        }
+        iframe{
+            width: 100%;
+            margin-top: 10px;
+        }
+        .youtube{
+            display: flex;
+        }
+        .about-us{
+            background-color: aqua;
+            padding: 10px;
+            border-radius: 10px;
+            font-size: 20px;
+        }
+        .h1{
+            font-family: Times New Roman;
+            text-decoration: none;
+        }
